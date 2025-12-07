@@ -4,7 +4,7 @@ Projeto em Flutter
 
 ## Para iniciar, digite no terminal:
 
-flutter pub get
-#
-flutter run
+1- flutter pub get
+
+2- flutter run
 
